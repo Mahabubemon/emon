@@ -1,3 +1,3 @@
 # emon
-this is ast 532.
+this is ast 532. 
 we are a
